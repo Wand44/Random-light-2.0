@@ -1,8 +1,8 @@
 bl_info = {
     "name": "Random_Light",
     "author": "wand",
-    "version": (1, 6),
-    "blender": (3, 60, 0),
+    "version": (1, 6, 0),
+    "blender": (3, 6, 0),
     "location": "View3D > N",
     "description": "Adds a light",
     "warning": "",
